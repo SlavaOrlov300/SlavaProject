@@ -24,7 +24,7 @@ btn_color = (0, 0.9, 0.64, 1)
 age = 7
 name = ""
 p1, p2, p3 = 0, 0, 0
-
+#FDSDFSDFSDVC
 def check_int(str_num):
     try:
         return int(str_num)
